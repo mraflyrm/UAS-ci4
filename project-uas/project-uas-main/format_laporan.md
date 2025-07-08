@@ -1,5 +1,6 @@
 # UAS Pengembangan Web – Debug REST API CI4
-
+Nama : M Rafly Rayhan Maulana
+Nim : 231080200178
 ## Tugas:
 - Perbaiki minimal 5 bug dari aplikasi
 - Catat bug dan solusinya dalam tabel laporan
